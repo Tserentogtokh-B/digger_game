@@ -48,5 +48,6 @@ git clone [https://github.com/Tserentogtokh-B/digger_game.git](https://github.co
 cd digger_game
 
 # Run the game
-python main.py 
+python main.py
+
 ![Digger game](materials/ss.png)
