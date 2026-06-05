@@ -49,5 +49,5 @@ cd digger_game
 
 # Run the game
 python main.py
-
+```
 ![Digger game](materials/ss.png)
